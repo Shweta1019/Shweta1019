@@ -1,5 +1,18 @@
 # SHWETA MAURYA
 <h2 align="center">About me</h2>
+package main
+
+import (
+	"fmt"
+)
+
+type Bio map[string]string
+
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
 func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                    "A kind of MusicLover-traveler-foodLover-coder-programmer-catLover",
