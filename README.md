@@ -24,6 +24,6 @@ func GetBio() Bio {
 		"- 👯 I’m looking to collaborate on": "Website designing related project",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "HTML,CSS,JAVA,JAVA SCRIPT ,SQL, Software Design & Architecture",
-		"- 📫 How to reach me:":              "",
+		"- 📫 How to reach me:":              "https://github.com/Shweta1019/Shweta1019",
 	}
 }
